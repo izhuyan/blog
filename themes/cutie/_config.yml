@@ -1,6 +1,6 @@
 version: 1.0.0
 # Be careful about the indent
-theme: cutie
+#theme: cutie
 google-analytics: UA-xxxxxxxx-1
 author_link: http://link/to/your/personal/website
 cutie:
