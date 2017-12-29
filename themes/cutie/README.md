@@ -1,1 +1,6 @@
-See [User Guide](https://qutang.github.io/2017/06/27/Hexo-theme-cutie/) for installation and usage.
+# theme-cutie-demo
+A demo site for hexo theme cutie
+
+## Changelog
+
+1. Fix a bug that only pushed the symlink of theme folder. Now the actual theme files are uploaded.
